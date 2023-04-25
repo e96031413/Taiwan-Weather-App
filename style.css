@@ -1,0 +1,14 @@
+body {
+      background-color: #f8f9fa;
+      font-family: "Microsoft JhengHei", sans-serif;
+    }
+#weather-results {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+#location-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
