@@ -5,7 +5,7 @@ A simple web app that uses the Taiwan Central Weather Bureau API to retrieve wea
 
 ## Usage
 
-To use the app, simply enter a location into the search bar and click "Get Weather". The app will retrieve the weather information for that location and display it on the page.
+To use the app, simply enter a location into the search bar and click "查詢". The app will retrieve the weather information for that location and display it on the page.
 
 ### Supported Locations
 
